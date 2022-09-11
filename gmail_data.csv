@@ -1,0 +1,9 @@
+first_name,last_name,username,password,confirm_password,error_type,error_value
+Naveen,G,naveeng2402,password@1234,password@1234,UN,username is taken
+Rishika,S V,rishikasv!@#$%,password@1234,password@1234,UN,only letters
+Krishna Prasad,S,krishnaprasad,,,PW,enter a password
+Moorthi,D,moorthiseenu,123asdf,123asdf,PW,8 characters or more
+Sri  Devi,S,sridevis,123asdf,123asdf,PW,8 characters or more
+Karan,U M,karanum,asdf@1234,,CP,confirm your password
+Sri Ram,S,srirams,password,password,CP,choose a stronger password
+Karthikeyan,S,karthis,12345678,12345678,CP,choose a stronger password
